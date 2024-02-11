@@ -1,5 +1,5 @@
 # CS 355 HW 2-1
-# Author
+## Author
 Vadim Allayev
-# Date
+## Date
 02/11/2024
